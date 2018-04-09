@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week6Day1HW.iml" filepath="$PROJECT_DIR$/.idea/modules/Week6Day1HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week6Day1HW_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Week6Day1HW_main.iml" group="Week6Day1HW" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week6Day1HW_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Week6Day1HW_test.iml" group="Week6Day1HW" />
+    </modules>
+  </component>
+</project>
